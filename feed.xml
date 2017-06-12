@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ben's blog</title>
+  <subtitle>Geeky articles about geeky things I like</subtitle>
+  <id>https://benjamin.vanryseghem.com/blog</id>
+  <link href="https://benjamin.vanryseghem.com/blog"/>
+  <link href="https://benjamin.vanryseghem.com/feed.xml" rel="self"/>
+  <updated>2016-05-28T02:00:00+02:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>f.lux</title>
+    <link rel="alternate" href="https://benjamin.vanryseghem.com/blog/flux/"/>
+    <id>https://benjamin.vanryseghem.com/blog/flux/</id>
+    <published>2016-05-28T02:00:00+02:00</published>
+    <updated>2017-05-30T14:12:45+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Trying to improve my sleeping time, and remembering an &lt;a href="https://github.com/camillobruni"&gt;old friend &lt;/a&gt; using it, I decided to give a try to &lt;a href="https://justgetflux.com/"&gt;f.lux&lt;/a&gt;. Here is a quick tour of it.
+
+&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://justgetflux.com/"&gt;f.lux&lt;/a&gt; is a software which adjusts your screen&amp;rsquo;s color temperature according to the date and time, and your geolocation. The purpose is to have your screen matching the ambient light at day &lt;strong&gt;and&lt;/strong&gt; at night in order to reduce eye strain during night time and to improve your sleep time. A couple of studies (some can be found on &lt;a href="https://justgetflux.com/research.html"&gt;their website&lt;/a&gt;) shows that reducing exposure to a blue glowing screen at night improves sleep effectiveness.&lt;/p&gt;
+
+&lt;h2&gt;Setup&lt;/h2&gt;
+
+&lt;p&gt;The first time you launch the app, your location will be asked in order to adjust the timezone. It is more or less the only thing that you need to specify to start using the app (it can be nice to adjust the waking time though).&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="popup-link" href="/images/post/flux/settings.png" title="f.lux setting page"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see above the setting page does not have that much tweaking possibilities, but it does the job.
+The only change I made since I have the app is to the color schema to have it a bit less yellow at night.&lt;/p&gt;
+
+&lt;p&gt;Once setup, it&amp;rsquo;s easy to forget about the app as it does its job without burden.&lt;/p&gt;
+
+&lt;p&gt;In addition to its main feature, &lt;em&gt;f.lux&lt;/em&gt; proposes to notify you when it is time to go to bed. It may sound fishy but it works (at least on me).&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="popup-link" href="/images/post/flux/before-after.png" title="f.lux in action"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Pros &amp;amp; Cons&lt;/h2&gt;
+
+&lt;table class="pros-n-cons"&gt;
+  &lt;thead&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Pros&lt;/td&gt;
+    &lt;td&gt;Cons&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Gratis&lt;/td&gt;
+    &lt;td&gt;Proprietary&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Reduce eye strain&lt;/td&gt;
+    &lt;td&gt;Collect data (position)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Easy to setup&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Notify when you should go to bed&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;Avaibility&lt;/h2&gt;
+
+&lt;p&gt;This application is available on GNU/Linux, Windows, Mac OS X, iPhone/iPad and Android. Note that it requires the iPhone/iPad to be jailbreaked and the Android phone to be rooted.&lt;/p&gt;
+
+&lt;p&gt;An unofficial port to Chrome plugin exists for those using Chrome OS. It&amp;rsquo;s named &lt;em&gt;G.lux&lt;/em&gt; and can be found &lt;a href="https://chrome.google.com/webstore/detail/glux/hinolicfmhnjadpggledmhnffommefaf"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;If you are just curious, or want to improve your sleep efficiency at low cost, &lt;em&gt;f.lux&lt;/em&gt; can be a nice app to try.&lt;/p&gt;
+
+&lt;h3&gt;References&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://justgetflux.com/"&gt;f.lux Official page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/F.lux"&gt;f.lux Wikipedia page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Redshift_(software)"&gt;Redshift Wikipedia page&lt;/a&gt;: A free software inspired by f.lux for BSD, GNU/Linux, and Windows.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://orioto.deviantart.com/"&gt;Orioto page&lt;/a&gt;: If you liked my background image.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Ergotron</title>
+    <link rel="alternate" href="https://benjamin.vanryseghem.com/blog/ergotron/"/>
+    <id>https://benjamin.vanryseghem.com/blog/ergotron/</id>
+    <published>2015-10-23T02:00:00+02:00</published>
+    <updated>2017-05-30T14:12:45+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;After looking for the perfect keyboard, and trying a couple of them (&lt;a href="http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-87-key-custom-mechanical-keyboard.html"&gt;WASD Keyboard&lt;/a&gt;, &lt;a href="http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/"&gt;Kinesis&lt;/a&gt;, &lt;a href="http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards"&gt;Maltron&lt;/a&gt;),
+I reached the conclusion that I should probably build my own keyboard. And so I did.
+
+&lt;p&gt;&lt;a class="popup-link" href="/images/post/Ergotron.jpg" title="Finished Keyboard"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I was previously using a &lt;a href="http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards"&gt;Two Hand Fully Ergonomic (3D) Keyboards&lt;/a&gt; by Maltron.
+I really loved it, but there was a couple of hiccups that pushed me to look even further.&lt;/p&gt;
+
+&lt;p&gt;The first issue was that they do not offer Cherry MX Green by default. Even if they are completely fine with ordering some and building your keyboard with them, it comes with a supplement (75£) and a delay of 10 working days.&lt;/p&gt;
+
+&lt;p&gt;The second problem was minor bugs in the firmware. Even though it is not such of a problem, as I like to remap all my keys to try new improvements, it became quite an issue pretty fast. And the fact that you can not flash the PCB made it really hard. Still I have to say that Maltron was really understanding, and shipped me a new PCB as soon as they fixed an issue. But as a programmer myself, I was quite frustrated not to be able to have a peek at the firmware code.&lt;/p&gt;
+
+&lt;p&gt;The third issue, even though it is a minor one, is that the usb cable is plugged directly on the PCB. It makes the keyboard very fragile to me. And killing your keyboard because you stepped on the cable is not something I want to experiment.&lt;/p&gt;
+
+&lt;p&gt;Being able to have full control over the code and the hardware is what caught the most my attention about the &lt;a href="https://www.ergodox.io/"&gt;Ergo Dox&lt;/a&gt; project. Big problem, I am really not a fan of split keyboards.
+And since I was used to (and love) the 3D keyboards, I decided to go this way. Inspired by Ergo Dox, I had a clear idea of the software, and the electronics. But how to resolve the keyboard shell issue? At first I tried to find a 3D model of the Maltron keyboard somewhere online, hoping that someone already did it. But I think the Maltron keyboard is too much of a niche keyboard. Hopeless I decided to send an email to Maltron to know if they sell spare part, expecting them to decline my proposal arguing I&amp;rsquo;d better buy a keyboard from them. I was so wrong! The person I was discussing with (named Martin) was really helpful and enthusiastic about my project, asking for news and pictures, proposing help, providing parts etc. It was an amazing experience.&lt;/p&gt;
+
+&lt;h2&gt;Building the keyboard&lt;/h2&gt;
+
+&lt;p&gt;At this moment, I ordered every pieces and electronic parts, and decided to have a look at the firmware during the delivery time.&lt;/p&gt;
+
+&lt;h3&gt;Firmware&lt;/h3&gt;
+
+&lt;p&gt;As I previously said, the starting point of the adventure was the &lt;a href="https://www.ergodox.io/"&gt;Ergo Dox&lt;/a&gt; project. So it felt quite natural to first have a look at their firmware. It is published under the MIT license on &lt;a href="https://github.com/benblazak/ergodox-firmware"&gt;GitHub&lt;/a&gt;. One click later I had a fork on it ready to be hacked.&lt;/p&gt;
+
+&lt;p&gt;The first thing I noticed reading &lt;a href="https://github.com/benblazak"&gt;Ben Blazak&lt;/a&gt;&amp;lsquo;s code was how clean and well documented it is. After a couple of hours reading the code, I felt like I had enough of a mental picture of the architecture to start tweaking the code.&lt;/p&gt;
+
+&lt;p&gt;The first issue I had to address was the additional keys. Indeed, there is support for 84 keys (6 rows time 14 columns) in the original code where there are 110 keys on a Maltron keyboard. Luckily enough there is just enough port to handle the extra columns on the chips. As I had no prior experience with such low level programming, it took me some time to understand the Teensy 2.0 documentation. But after that, it felt quite easy to extend the code.&lt;/p&gt;
+
+&lt;p&gt;Once the supplementary keys were supported (I have to say that I had no way yet to test my code), I started to implement a couple of layouts for the 110 keys.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="popup-link" href="/images/post/ergotron/layout.png" title="Rows and columns layout"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That was the moment I received the first batch of components. And with them I had the opportunity to build a first prototype and to try my code. No need to say it was &lt;em&gt;not&lt;/em&gt; working. And guess what? It is not that fun to debug a device without a standard output. Luckily enough the Ergo Dox firmware comes with a debugging function which &amp;ldquo;print&amp;rdquo; a string. By printing I mean it simulates someone typing it on the keyboard. So after a couple of hours putting some debug print every other line, I was able to fix the bugs. It was now time to wait for the hardware parts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="popup-link" href="/images/post/ergotron/proto.jpg" title="Debugging prototype"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This part took me roughly 5 hours.&lt;/p&gt;
+
+&lt;h3&gt;Hardware&lt;/h3&gt;
+
+&lt;h4&gt;The PCB&lt;/h4&gt;
+
+&lt;p&gt;The first step to build the hardware was to solder every components on the PCB, taking care of the cable disposition. No major issue here except the fact that my soldering iron is getting really old. After 4 or 5 hours of soldering, the PCB was ready.&lt;/p&gt;
+
+&lt;div class="gallery"&gt;
+  &lt;div class="gallery-container"&gt;
+        &lt;a href="/images/post/ergotron/pcb1.jpg" data-lightbox="pcb"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/pcb1.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/pcb2.jpg" data-lightbox="pcb"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/pcb2.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/pcb3.jpg" data-lightbox="pcb"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/pcb3.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/pcb4.jpg" data-lightbox="pcb"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/pcb4.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/pcb5.jpg" data-lightbox="pcb"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/pcb5.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/pcb6.jpg" data-lightbox="pcb"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/pcb6.jpg"&gt;
+        &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I did some testing to be sure the soldering points were correct, and after fixing few of them, I hot glued the PCB to the lower part of the keyboard shell. I first made a couple of trials to find the correct position, the IDC connector being higher than I first thought. This done, I was ready for the next part.&lt;/p&gt;
+
+&lt;p&gt;This part took me roughly 5 hours.&lt;/p&gt;
+
+&lt;h4&gt;Tweaking the shell&lt;/h4&gt;
+
+&lt;p&gt;When Martin sent me the shell parts, he gently added the plastic bars used to connect the two parts together.
+I decided to start with that. Now I think it was a &lt;em&gt;huge&lt;/em&gt; mistake and should have been done last.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="popup-link" href="/images/post/ergotron/bars.jpg" title="Glued bars"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I also made the hole for the USB panel mount. It was a bit harder than expected, especially because I do not have the proper tools. But all in all I think the output is ok.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="popup-link" href="/images/post/ergotron/usb.jpg" title="USB hole"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This part took me roughly half an hour.&lt;/p&gt;
+
+&lt;h4&gt;The key switches&lt;/h4&gt;
+
+&lt;p&gt;Now the goal was to solder the matrix layout on the switches. First I tinned all the switches. Second I bent and tinned the anode side of each diode. Once this was done, I inserted all the switches in the upper part of the shell. I was wondering if I should glue them, but finally the holes were made precisely, so the switches fit perfectly.&lt;/p&gt;
+
+&lt;div class="gallery"&gt;
+  &lt;div class="gallery-container"&gt;
+        &lt;a href="/images/post/ergotron/switch1.jpg" data-lightbox="switch"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/switch1.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/switch2.jpg" data-lightbox="switch"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/switch2.jpg"&gt;
+        &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The tedious part could start. Indeed, this was the moment to solder a diode on each switch, and to connect all of them in a matrix. Beside being quite of a long job, having already glued the support bars was really making the upper row soldering a nightmare.&lt;/p&gt;
+
+&lt;p&gt;As the PCB is inspired from a split keyboard, the matrix is actually made in two parts. So I soldered the matrix one side at a time. After a couple of trials, I found a good enough technique. I started by making the whole row cable, soldering together enough small cables. Then I soldered the complete row. And finally, for each key in the row, I soldered the diode. When the 6 rows were done, I soldered the columns, and trimmed the diode pin. Then I connected each row and column to the correspondent flat cable.&lt;/p&gt;
+
+&lt;div class="gallery"&gt;
+  &lt;div class="gallery-container"&gt;
+        &lt;a href="/images/post/ergotron/matrix1.jpg" data-lightbox="matrix"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/matrix1.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/matrix2.jpg" data-lightbox="matrix"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/matrix2.jpg"&gt;
+        &lt;/a&gt;
+        &lt;a href="/images/post/ergotron/matrix3.jpg" data-lightbox="matrix"&gt;
+          &lt;img class="thumbnail" src="/images/post/ergotron/matrix3.jpg"&gt;
+        &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;About the LEDs, I drilled little holes and made them bigger a bit at a time until the LED fitted nicely in it. Then I glued each led with some super glue.&lt;/p&gt;
+
+&lt;p&gt;I then tried the connections, fixed the broken soldering points and hot glued the flat cables to the shell to prevent to accidently tear apart the matrix.&lt;/p&gt;
+
+&lt;p&gt;Each side roughly took me 10 hours of soldering.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;After around 30 hours of work, spread over three weekends, I finally had a working keyboard proudly made by myself. I am now using it for a month and it works like a charm. I am still looking for nice stickers to customize it, so if you have suggestions, feel free to contact me.&lt;/p&gt;
+
+&lt;h3&gt;References&lt;/h3&gt;
+
+&lt;p&gt;Here are a few links I found useful when doing the keyboard, as well as my GitHub repository for the keyboard firmware:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/BenjaminVanRyseghem/ergotron-firmware"&gt;ergotron-firmware&lt;/a&gt;: the firmware for the Ergotron keyboard.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/benblazak/ergodox-firmware"&gt;ergodox-firmware&lt;/a&gt;: the official Ergo Dox firmware repository.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://keyboard-configurator.massdrop.com/ext/ergodox/assembly"&gt;ErgoDox Keyboard Assembly Instructions&lt;/a&gt;: The detailled step to build an Ergo Dox keyboard.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Ergodox-io/ErgoDox/tree/master/ErgoDOX%20pcb/gerber"&gt;Ergo Dox files&lt;/a&gt;: Gerber files of the PCB. Really useful to understand how components are connected.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.fsck.com/2012/12/building-a-keyboard-part-1.html"&gt;Building a Keyboard: Part 1&lt;/a&gt;: A blog entry about how Jesse Vincent made his own keyboard.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+</feed>
